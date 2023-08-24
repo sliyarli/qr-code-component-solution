@@ -24,8 +24,8 @@ This project is a solution to the [QR code component challenge](https://www.fron
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/sliyarli/qr-code-component-solution)
+- [Live Site URL](https://sliyarli.github.io/qr-code-component-solution/)
 
 ## Built With
 
